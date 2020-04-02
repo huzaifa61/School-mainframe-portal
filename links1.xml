@@ -1,0 +1,56 @@
+<pages>
+    <link>
+        <title>HOME PAGE</title>
+        <url>http://mhurhs.com/</url>
+    </link>
+    <link>
+        <title>ABOUT SCHOOL</title>
+        <url>http://mhurhs.com/about.html</url>
+    </link>
+    <link>
+        <title>ABOUT PRINCIPAL</title>
+        <url>http://mhurhs.com/principal.html</url>
+    </link>
+    <link>
+        <title>MISSION & VISION</title>
+        <url>
+            http://mhurhs.com/Mission.html
+        </url>
+    </link>
+    <link>
+        <title>GOVERNING BODY</title>
+        <url>http://mhurhs.com/timetable/govbody.pdf</url>
+    </link>
+    <link>
+        <title>GALLERY</title>
+        <url>http://mhurhs.com/gallery.html</url>
+    </link>
+    <link>
+        <title>contact</title>
+        <url>http://www.mhurhs.com/contact.html</url>
+    </link>
+    <link>
+        <title>TIME TABLE</title>
+        <url>http://mhurhs.com/tt.html</url>
+    </link>
+    <link>
+        <title>CURRICULUM</title>
+        <url>http://mhurhs.com/cc.html</url>
+    </link>
+    <link>
+        <title>ACADEMIC CALENDAR</title>
+        <url>http://mhurhs.com/ac.html</url>
+    </link>
+    <link>
+        <title>ONLINE RESOURCES</title>
+        <url>http://mhurhs.com/or.html</url>
+    </link>
+    <link>
+        <title>LOGIN</title>
+        <url>http://mhurhs.com/login.php</url>
+    </link>
+    <link>
+        <title>DEVELOPER DESK</title>
+        <url>http://mhurhs.com/timetable/dd.html</url>
+    </link>
+    </pages>
